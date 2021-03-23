@@ -1,0 +1,74 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  color: rgb(48, 23, 190);
+  text-align: center;
+  text-shadow: #4309c9;
+}
+h2 {
+  color: #4309c9;
+  text-align: left;
+}
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  size: 20px;
+  color: royalblue;
+}
+
+#PhotoColchis {
+  display: flex;
+  justify-content: space-between;
+}
+table {
+  border: medium solid #000000;
+  width: 50%;
+}
+td,
+th {
+  border: thin solid #6495ed;
+  width: 50%;
+}
+#menu {
+  border: medium solid #f7b8e4;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #4309c9;
+  overflow: hidden;
+}
+li {
+  display: inline;
+  float: left;
+}
+li a {
+  color: pink;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.Ulysse {
+  width: 250px;
+  height: 250px;
+}
+.Jason {
+  width: 250px;
+  height: 250px;
+}
+.homere {
+  width: 250px;
+  height: 250px;
+}
+#baniere {
+  background-position: center;
+  width: 1250px;
+  height: 300px;
+}
+#games {
+  background-position: center;
+  width: 1000 px;
+  height: 500px;
+}
